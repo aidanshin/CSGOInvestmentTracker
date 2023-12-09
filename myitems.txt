@@ -1,0 +1,30 @@
+Name, Quantity, Price
+Sticker  Cloud9 (Holo)  Antwerp 2022,4,5.38
+Antwerp 2022 Legends Sticker Capsule,25,0.18
+Antwerp 2022 Challengers Sticker Capsule,50,0.18
+Antwerp 2022 Contenders Sticker Capsule,99,0.21
+Antwerp 2022 Champions Autograph Capsule,20,0.16
+Antwerp 2022 Contenders Autograph Capsule,100,0.2
+Antwerp 2022 Challengers Autograph Capsule,100,0.18
+Antwerp 2022 Legends Autograph Capsule,106,0.17
+Sticker  Cloud9 (Gold)  Antwerp 2022,1,6.6
+Sticker  9z Team (Holo)  Antwerp 2022,4,3.41
+Sticker  Imperial Esports (Holo)  Antwerp 2022,4,4.69
+Sticker  Complexity Gaming (Holo)  Antwerp 2022,1,2.54
+Sticker  Cloud9  Antwerp 2022,40,0.04
+Sticker  FaZe Clan  Antwerp 2022,110,0.01
+Sticker  Twistzz (Gold)  Antwerp 2022,1,16.39
+Sticker  m0NESY (Holo)  Antwerp 2022,5,7.42
+Sticker  Twistzz (Holo)  Antwerp 2022,5,4.45
+Sticker  rox (Glitter)  Antwerp 2022,1,1.55
+Sticker  FalleN (Holo)  Antwerp 2022,5,2.5
+Sticker  nafany (Holo)  Antwerp 2022,1,2.57
+Sticker  Twistzz  Antwerp 2022,19,0.01
+Sticker  rox  Antwerp 2022,10,0.244
+Sticker  m0NESY  Antwerp 2022,31,0.06
+Sticker  luken (Holo)  Antwerp 2022,1,1.04
+Sticker  XANTARES  Antwerp 2022,10,0.01
+Sticker  XANTARES (Holo)  Antwerp 2022,5,1.77
+Sticker  Patsi (Holo)  Antwerp 2022,4,0.71
+Operation Broken Fang Case,50,0.3
+Clutch Case,21,0.15
